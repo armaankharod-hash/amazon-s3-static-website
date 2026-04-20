@@ -37,9 +37,9 @@ https://github.com/armaankharod-hash/amazon-s3-static-website
 
 ## Screenshots
 
-![Website](screenshots/website-live.png)
-![S3 Bucket](screenshots/s3-dashboard.png)
-![Files](screenshots/files-uploaded.png)
+![Website](https://github.com/armaankharod-hash/amazon-s3-static-website/blob/main/S3%20SCREENSHOTS/WebsiteLive.png)
+![S3 Bucket](https://github.com/armaankharod-hash/amazon-s3-static-website/blob/main/S3%20SCREENSHOTS/CreateBucket1.png)
+![Files](https://github.com/armaankharod-hash/amazon-s3-static-website/blob/main/S3%20SCREENSHOTS/Upload1.png)
 
 ---
 
